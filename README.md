@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, I'm Tim 👋
 
 I'm a computer science and economics student at [bwd Bern](https://bwdbern.ch/) and [gibb](https://gibb.ch/). I'm actively learning new skills and technologies to improve my portfolio and career prospects.
 
@@ -9,11 +9,9 @@ I'm a computer science and economics student at [bwd Bern](https://bwdbern.ch/) 
 - Containerization: Docker, Kubernetes
 - Cloud computing: Amazon AWS
 
-## Recent Projects 🚀
-- [T-Craft-Game-Launcher](https://github.com/TD99/T-Craft-Game-Launcher): A C# application that allows a secure connection to Minecraft servers and a fast switching between instances.
-- [gibb-pt3-zeiterfassung](https://github.com/TD99/gibb-pt3-zeiterfassung): A JavaScript web app that tracks the working hours of students and generates reports.
-- [code-share](https://github.com/TD99/code-share): A web app that allows users to share code snippets in real time.
+*And [many](https://timduerr.com/skills) more...*
 
 ## Connect with Me 📫
 - Linkedin: [https://www.linkedin.com/in/tim-duerr/](https://www.linkedin.com/in/tim-duerr/)
-- Website: [http://tcraft.ch](http://tcraft.ch)
+- Portfolio: [https://timduerr.com](https://timduerr.com)
+- T-Craft: [http://tcraft.ch](http://tcraft.ch)
