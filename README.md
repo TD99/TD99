@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Vaadin Flow, Hilla**
 
-- 👨‍💻 Most of my projects are available at [https://timduerr.com/](https://timduerr.com/)
+- 👨‍💻 Most of my projects are available at [https://timduerr.dev/](https://timduerr.dev/)
 
 - 💬 Ask me about **React, TypeScript, Docker**
 
