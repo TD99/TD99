@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim (TD99)</h1>
-<h3 align="center">I'm a computer science and economics intern at the Bern University of Applied Sciences. I'm actively learning new skills and technologies to improve my portfolio and career prospects.</h3>
+<h3 align="center">I'm a computer science intern at the Bern University of Applied Sciences. I'm actively learning new skills and technologies to improve my portfolio and career prospects.</h3>
 
 <br>
 
