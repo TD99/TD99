@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AI projects](https://github.com/TD99/ai-sandbox)
 
-- 🌱 I’m currently learning **LaTeX, Spring Boot, Vaadin Flow, Hilla, PostgreSQL**
+- 🌱 I’m currently learning **Spring Boot, Vaadin Flow, Hilla**
 
 - 👨‍💻 Most of my projects are available at [https://timduerr.com/](https://timduerr.com/)
 
