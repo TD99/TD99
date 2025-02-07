@@ -9,6 +9,8 @@
 
 - 👨‍💻 Most of my projects are available at [https://timduerr.dev/](https://timduerr.dev/)
 
+- 💻 My Gists are available at [https://gist.github.com/TD99](https://gist.github.com/TD99)
+
 - 💬 Ask me about **React, TypeScript, Docker**
 
 <br>
