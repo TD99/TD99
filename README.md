@@ -3,15 +3,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [AI projects](https://github.com/TD99/ai-sandbox)
-
 - 🌱 I’m currently learning **Spring Boot, Vaadin Flow, Hilla**
-
-- 👨‍💻 Most of my projects are available at [https://timduerr.dev/](https://timduerr.dev/)
-
-- 💻 My Gists are available at [https://gist.github.com/TD99](https://gist.github.com/TD99)
-
 - 💬 Ask me about **React, TypeScript, Docker**
+- 💻 My Gists are available at [https://gist.github.com/TD99](https://gist.github.com/TD99)
 
 <br>
 
