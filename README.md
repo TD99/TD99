@@ -1,22 +1,41 @@
-<h1 align="center">Hi 👋, I'm Tim (TD99)</h1>
-<h3 align="center">I'm a computer science intern at the Bern University of Applied Sciences. I'm actively learning new skills and technologies to improve my portfolio and career prospects.</h3>
+<h1 align="center">Hi 👋, I'm Tim</h1>
+<h3 align="center">
+  I am an award-winning Young Professional in software development.
+</h3>
 
-<br>
-
-- 🌱 I’m currently learning **Spring Boot, Vaadin Flow, Hilla**
-- 💬 Ask me about **React, TypeScript, Docker**
-- 💻 My Gists are available at [https://gist.github.com/TD99](https://gist.github.com/TD99)
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/tim-duerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tim-duerr" height="30" width="40" /></a>
+<p align="center">
+  <i>Passionate about building high-quality applications that bridge backend robustness with modern frontend experiences.</i><br>
+  <i>Experienced in Java, Spring Boot, Vaadin Flow, React.js, C#/.NET, Docker and CI/CD.</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
+### 🚀 About Me
+- 🌱 Currently exploring: **Spring WebFlux, Apache Kafka, AI Integration**  
+- 💬 Ask me about: **Java · Spring Boot · Vaadin Flow · React.js · C# · Docker**  
+- 💻 Check out my Gists: [gist.github.com/TD99](https://gist.github.com/TD99)  
+
+---
+
+### 🏆 Awards & Achievements
+- 🥈 **2nd Place** – Informatiker EFZ Applikationsentwicklung (Bern, 2025) – Grade 5.9
+- 🏅 **Best Interdisciplinary Project Work** – BM1 Wirtschaft (Bern, 2025) – Grade 6.0  
+- 🌍 **Best Foreign Language Performance** – BM1 Englisch & Französisch (Bern, 2025) – Grade 6.0 & 6.0  
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/tim-duerr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tim-duerr" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p>
+  
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -77,5 +96,13 @@
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.org/)
 [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 
-<h3 align="left">Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=td99&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="td99" /></a> </p>
+</p>
+
+---
+
+### 🏅 GitHub Trophies
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=td99&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="td99 trophies" />
+  </a>
+</p>
