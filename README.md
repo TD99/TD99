@@ -12,8 +12,9 @@
 
 ### 🚀 About Me
 - 🌱 Currently exploring: **Spring WebFlux, Apache Kafka, AI Integration**  
-- 💬 Ask me about: **Java · Spring Boot · Vaadin Flow · React.js · C# · Docker**  
-- 💻 Check out my Gists: [gist.github.com/TD99](https://gist.github.com/TD99)  
+- 💬 Ask me about: **Java · Spring Boot · Vaadin Flow · React.js · C# · Docker**
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tim-duerr)  
+- 💻 Check out my Gists on [gist.github.com/TD99](https://gist.github.com/TD99)
 
 ---
 
@@ -21,15 +22,6 @@
 - 🥈 **2nd Place** – Informatiker EFZ Applikationsentwicklung (Bern, 2025) – Grade 5.9
 - 🏅 **Best Interdisciplinary Project Work** – BM1 Wirtschaft (Bern, 2025) – Grade 6.0  
 - 🌍 **Best Foreign Language Performance** – BM1 Englisch & Französisch (Bern, 2025) – Grade 6.0 & 6.0  
-
----
-
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/tim-duerr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tim-duerr" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
@@ -101,8 +93,4 @@
 ---
 
 ### 🏅 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=td99&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="td99 trophies" />
-  </a>
-</p>
+![](https://github-trophies.vercel.app/?username=td99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,A)
