@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently exploring: **Spring WebFlux, Apache Kafka, AI Integration**  
+- 🌱 Currently exploring: **Spring WebFlux · Apache Kafka · AI Integration**  
 - 💬 Ask me about: **Java · Spring Boot · Vaadin Flow · React.js · C# · Docker**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tim-duerr)  
 - 💻 Check out my Gists on [gist.github.com/TD99](https://gist.github.com/TD99)
