@@ -19,9 +19,10 @@
 ---
 
 ### 🏆 Awards & Achievements
-- 🥈 **2nd Place** – Informatiker EFZ Applikationsentwicklung (Bern, 2025) – Grade 5.9
-- 🏅 **Best Interdisciplinary Project Work** – BM1 Wirtschaft (Bern, 2025) – Grade 6.0  
-- 🌍 **Best Foreign Language Performance** – BM1 Englisch & Französisch (Bern, 2025) – Grade 6.0 & 6.0  
+- 🥈 **2nd Rank** – Federal Diploma in Computer Science (Application Development) – Grade: 5.9 (≈98%)
+- 🏅 **Best Interdisciplinary Project** – Federal Vocational Baccalaureate (BM1, Economics) – Grade: 6.0 (100%)
+  - Together with [@awjolanda](https://github.com/awjolanda) and [@DukeOfWellington1815](https://github.com/DukeOfWellington1815)
+- 🌍 **Best Foreign Language Performance** – Federal Vocational Baccalaureate (BM1, English & French) – Grades: 2x 6.0 (100%)
 
 ---
 
