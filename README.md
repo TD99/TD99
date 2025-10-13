@@ -90,18 +90,7 @@
 [![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Swagger UI](https://img.shields.io/badge/swagger%20ui-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/specification/)
 
-#### Design Tools
-[![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge)](https://www.adobe.com/products/illustrator.html)
-[![Adobe XD](https://img.shields.io/badge/adobe%20xd-%23470137.svg?style=for-the-badge)](https://www.adobe.com/products/xd.html)
-
-
-#### Methodologies
-[![Scrum](https://img.shields.io/badge/scrum-%2300A6A6.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/)
-[![HERMES 5.1](https://img.shields.io/badge/hermes%205.1-%23007ACC.svg?style=for-the-badge&logo=hermes&logoColor=white)](https://www.hermes.admin.ch/)
-
 #### AI & Automation
 [![OpenAI](https://img.shields.io/badge/openai%20api-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Spring AI](https://img.shields.io/badge/spring%20ai-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-ai)
 [![LangChain](https://img.shields.io/badge/langchain-%23007ACC.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-
----
