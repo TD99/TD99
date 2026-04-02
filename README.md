@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">
-  I am an award-winning Young Professional in software development.
+  I am an award-winning full-stack software engineer.
 </h3>
 
 <p align="center">
