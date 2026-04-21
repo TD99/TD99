@@ -10,9 +10,7 @@
 
 ---
 
-### About Me
-- 🌱 Currently exploring: **Avalonia UI · AI Integration with LangChain**  
-- 💬 Ask me about: **Java · Spring Boot · Vaadin Flow · React.js · C# · Docker**
+### Links
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tim-duerr)  
 - 💻 Check out my Gists on [GitHub Gists](https://gist.github.com/TD99)
 
