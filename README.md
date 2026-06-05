@@ -16,6 +16,11 @@
 
 ---
 
+### Certifications
+- 🤖 [**GitHub Copilot**](https://learn.microsoft.com/api/credentials/share/en-us/TD99/39349FAF3F7D42FA?sharingId=DB5C7F50CAD10717)
+
+---
+
 ### Awards & Achievements
 - 🥈 **2nd Rank** – Federal Diploma in Computer Science (Application Development) – Grade: 5.9 (≈98%)
 - 🏅 **Best Interdisciplinary Project** – Federal Vocational Baccalaureate (BM1, Economics) – Grade: 6.0 (100%)
