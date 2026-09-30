@@ -11,8 +11,8 @@
 ---
 
 ### Links
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tim-duerr)  
-- 💻 Check out my Gists on [GitHub Gists](https://gist.github.com/TD99)
+- 🔗 Connect with me on [LinkedIn](https://linkedin.timduerr.dev/)  
+- 💻 Check out my Gists on [GitHub Gists](https://gist.timduerr.dev/)
 
 ---
 
